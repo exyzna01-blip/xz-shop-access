@@ -1,4 +1,4 @@
-# xz shop access (Laravel 11) — Ready-to-run Skeleton
+# xz shop access 
 
 This package contains **migrations, seeders, controllers, RBAC middleware, and Blade UI skeleton** for the “xz shop access” app.
 
